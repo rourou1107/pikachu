@@ -1,11 +1,4 @@
 let str = `/*现在给大家在下面画一个皮卡丘*/
-    #html {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100vw;
-        height: 50vh;
-    }
     /*首先皮卡丘的皮肤是黄色的*/
     .pikachu {
         position: fixed;
